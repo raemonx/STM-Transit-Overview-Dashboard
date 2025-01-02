@@ -3,7 +3,7 @@
 
 ## 🔍 Project Highlights
 - **Dynamic Data Model**: Integrated 215 transit routes, 249,020 trips, and 8,979 stops.
-- ![Data Model](./images/model.png)  
+![Data Model](./images/model.png)  
 - **Key Insights**:
   - Peak hours analysis with 166,579 trips during rush hours.
   - Accessibility focus with 88.8% of stops wheelchair-friendly.
