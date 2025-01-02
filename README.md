@@ -2,8 +2,7 @@
 **Interactive Power BI dashboard analyzing STM transit data, focusing on accessibility and operational efficiency.**
 
 ## 🔍 Project Highlights
-- **Dynamic Data Model**: Integrated 215 transit routes, 249,020 trips, and 8,979 stops.
-![Data Model](./images/model.png)  
+- **Dynamic Data Model**: Integrated 215 transit routes, 249,020 trips, and 8,979 stops. 
 - **Key Insights**:
   - Peak hours analysis with 166,579 trips during rush hours.
   - Accessibility focus with 88.8% of stops wheelchair-friendly.
@@ -15,6 +14,7 @@
 - **Interactive Dashboards**
 
 ## 📸 Screenshots
+![Data Model](./images/model.png) 
 ![Dashboard Overview Page 1](./images/1.png)  
 ![Dashboard Overview Page 2](./images/2.png) 
 ![Dashboard Overview Page 3](./images/3.png) 
